@@ -1,4 +1,4 @@
 package com.example.demo.models.dto;
 
-public record EidResDTO(String id, String eid, String imei, String imei2) {
+public record EidResDTO(String readerId, String eid, String imei, String imei2, String capacity, String first_use, String cycle, String model, String serial, String model_name, String memory_capacity, String available) {
 }

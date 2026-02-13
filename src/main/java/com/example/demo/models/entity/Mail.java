@@ -19,4 +19,13 @@ public class Mail {
 
     private String imei;
     private String imei2;
+
+    private String capacity;
+    private String first_use;
+    private String cycle;
+    private String model;
+    private String serial;
+    private String model_name;
+    private String memory_capacity;
+    private String available;
 }
